@@ -16,6 +16,7 @@ $statistiques = getStatistiquesParEmploi();
 
     <h1 class="mb-4">Statistiques des emplbwjhbhgflkjwhkfjygois</h1>
     ffjhsdkhfksvbdsj,bvbsj
+    l,fvkl,vdl,vdv,dpo
 
     <table class="table table-bordered table-hover text-center align-middle">
         <thead class="table-dark">

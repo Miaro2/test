@@ -15,6 +15,7 @@ $statistiques = getStatistiquesParEmploi();
 <body class="container py-4">
 
     <h1 class="mb-4">Statistiques des emplbwjhbhgflkjwhkfjygois</h1>
+    ffjhsdkhfksvbdsj,bvbsj
 
     <table class="table table-bordered table-hover text-center align-middle">
         <thead class="table-dark">

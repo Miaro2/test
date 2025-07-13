@@ -14,7 +14,7 @@ $departements = getDepartement();
 </head>
 <body class="container py-4">
 
-    <h1 class="mb-4">Recherche</h1>
+    <h1 class="mb-4">Recherch</h1>
 
     <form action="recherche.php" method="get" class="mb-5">
         <div class="mb-3">

@@ -37,6 +37,8 @@ $statistiques = getStatistiquesParEmploi();
         </tbody>
     </table>
 
+    <p>klc,dlck,s,s</p>
+
     <script src="../assets/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

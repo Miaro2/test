@@ -14,7 +14,7 @@ $statistiques = getStatistiquesParEmploi();
 </head>
 <body class="container py-4">
 
-    <h1 class="mb-4">Statistiques des emplois</h1>
+    <h1 class="mb-4">Statistiques des emplbwjhbhgflkjwhkfjygois</h1>
 
     <table class="table table-bordered table-hover text-center align-middle">
         <thead class="table-dark">
